@@ -8,8 +8,8 @@ I have always loved to **build**; as a child using lego to build Bionicle robots
 ### What have I been up to?
 At Makers I was always keen to expand my knowledge in the field of programming whether it be learning a new language or framework. My projects show this having chosen them with the primary goal to learn as much as possible on a subject. In these projects I needed to grasp complex concepts quickly and understand how to apply them effectively so I could add as much value to the team via working myself and also helping others to understand these concepts. These projects are listed below;
 
-Building a secure Web App: https://github.com/LarsFin/Making-a-secure-web-app
-Interpreter: https://github.com/GeorgeWhiting/writing-a-programming-language
+- Building a secure Web App: https://github.com/LarsFin/Making-a-secure-web-app
+- Interpreter: https://github.com/GeorgeWhiting/writing-a-programming-language
 
 <a href="https://www.youtube.com/watch?v=kRWGwOxLOaM"
 target="blank">
