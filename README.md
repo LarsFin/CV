@@ -6,6 +6,8 @@
 
 I have always loved to **build**; as a child using lego to build Bionicle robots, as a teenager using GameMaker Studios to build 2D games, as a stop-motion artist using clay to build videos for others to enjoy and now as a software developer using my passion for programming to build applications. I love to **learn** even more, while at Makers I developed invaluable skills to aid my learning procedure. I wish to work in a team surrounded by programmers also keen to **learn** and **build** on innovative projects.
 
+</br>
+
 ---
 
 ### What have I been up to?
