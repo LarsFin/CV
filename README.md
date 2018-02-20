@@ -21,8 +21,8 @@ While a stop-motion artist I was able to invoke my skill in patience to ensure a
 
 </br>
 
-<p align="right">
-  *Click to view TABLE RULES*
+<p align="right" style="font-size:8;font-style:italic">
+  Click to view TABLE RULES
 </p>
 
 ---
