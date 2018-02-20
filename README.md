@@ -1,5 +1,7 @@
 # Lars Finlay
 
+![Dev Gif](./dev.gif)
+
 ### About me
 I have always loved to **build**; as a child using lego to build Bionicle robots, as a teenager using GameMaker Studios to build 2D games, as a stop-motion artist using clay to build videos for others to enjoy and now as a software developer using my passion for programming to build applications. However I love to **learn** even more, while at Makers I developed invaluable skills to aid my learning procedure. I hope to work in a team surrounded by programmers also keen to **learn** and **build** on innovative projects.
 
@@ -22,7 +24,7 @@ While a stop-motion artist I was able to invoke my skill in patience to ensure a
 </br>
 
 <p align="right">
-  <i style="font-size:12px"> Click to watch </i>
+  <i> Click to watch </i>
 </p>
 
 ---
