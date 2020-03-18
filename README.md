@@ -2,9 +2,9 @@
 
 ### Professional Experience
 
-Having worked for two years as a DevOps Consultant has given me a breadth of skills, ranging from Operations tools to Software Development in popular Programming Languages. As a Consultant these skills have been tested and matured against Enterprise scenarios while also having to balance expectations and deadlines. Additionally, I've had the opportunity to work both independently and in larger teams. Each one, yielding valuable lessons.
+Having worked for two years as a DevOps Consultant I have acquired a breadth of skills, ranging from Operations tools to Software Development in popular Programming Languages. As a Consultant, these skills have been tested and matured against Enterprise scenarios while also having to balance expectations and deadlines. Additionally, I've had the opportunity to work both independently and in larger teams. Both situations, yielding valuable lessons.
 
-DevOps tools I have practiced and applied on engagements include; Docker, New Relic and Terraform. More recently, I have taken a focus on development; using .NET core at a Mid level in an agile engagement. Building complex and resilient software for financial businesses where application faults are critical. I've taken many steps to better myself as a developer but have also made great efforts to guide and help others where I feel confident; particularly in TDD, git and writing clean code.
+DevOps tools I have practiced and applied on engagements include: Docker, New Relic and Terraform. More recently, I have taken a focus on development, using .NET core at a Mid-level in an agile engagement. Building complex and resilient software for financial businesses where application faults are critical. I've taken many steps to improve myself as a developer but have also made great efforts to guide and help others where I feel confident; particularly in TDD, git and writing clean code.
 
 ### Skills
 
@@ -59,7 +59,11 @@ DevOps tools I have practiced and applied on engagements include; Docker, New Re
 
 <img align="right" src="./dev.gif" width="248" height="184" />
 
-Outside of work, I have taken a great interest in video game development. Through this, I have learnt a lot on the game engine 'Unity' and also gained an appreciation for writing performance optimised code. (To be updated!)
+Outside work, I have taken a great interest in video game development. To that end, I have become very familiar with ‘Unity’ and also gained an understanding of, and appreciation for, performance focussed code.
+
+I have always appreciated writing testable code. This has been my approach in many of my personal projects. Ensuring I follow TDD, while picking up initially unfamiliar programming languages, has noticeably improved the rate at which I become more familiar with the syntax and paradigms. Recently, I wrote unit tests for my video game development in Unity. This has deepened my understanding of the game engine and its architecture.
+
+I also have an interest in stop-motion and have made my own short videos which have been posted online. These were developed using stop motion software such as Dragonframe, and Photoshop.
 
 </br>
 
