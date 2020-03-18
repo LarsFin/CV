@@ -61,9 +61,9 @@ DevOps tools I have practiced and applied on engagements include: Docker, New Re
 
 Outside work, I have taken a great interest in video game development. To that end, I have become very familiar with ‘Unity’ and also gained an understanding of, and appreciation for, performance focussed code.
 
-<img align="right" src="./dev.gif" width="248" height="184" />
-
 I have always appreciated writing testable code. This has been my approach in many of my personal projects. Ensuring I follow TDD, while picking up initially unfamiliar programming languages, has noticeably improved the rate at which I become more familiar with the syntax and paradigms. Recently, I wrote unit tests for my video game development in Unity. This has deepened my understanding of the game engine and its architecture.
+
+<img align="right" src="./dev.gif" width="248" height="184" />
 
 I also have an interest in stop-motion and have made my own short videos which have been posted online. These were developed using stop motion software such as Dragonframe, and Photoshop.
 
